@@ -2,6 +2,7 @@ import './App.css';
 import React, { Component } from "react";
 import Navbar from './components/Navbar'
 import TextForm from './components/TextForm'
+import About from './components/TextForm'
 
 function App() {
   return (
